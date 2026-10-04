@@ -6,7 +6,7 @@
 
 [Leetcode](https://leetcode.cn/u/jiangzyovo/)
 
-- 💬 Feel free to reach out if you want to discuss agent or programming.
+- 💬 Feel free to reach out if you want to discuss programming.
 - 🏆 Awards
 - 2024 China Collegiate Programming Contest Finals, Silver Medal
 - 2025 ICPC China National Invitational Programming Contest(Nanchang), Gold Medal
