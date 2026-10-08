@@ -10,3 +10,5 @@
 - 🏆 Awards
 - 2024 China Collegiate Programming Contest Finals, Silver Medal
 - 2025 ICPC China National Invitational Programming Contest(Nanchang), Gold Medal
+
+我也想成为高手，继续努力吧💪 -2026.10.8
